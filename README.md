@@ -1,8 +1,6 @@
 # 💫 About Me:
 
-Hello! I'm AlvaritoZ, a young programmer from Spain. My experience in the programming world has fueled my passion for creative problem-solving and innovation.
-<br><br>
-I thrive on collaboration and continuous learning. I'm committed to contributing my best to your projects and working as part of your team for success.
+Hello there! I'm AlvaritoZ, and I'm diving into the world of programming. Despite my several years of experience in the industry, I'm always eager to learn and explore new horizons. <br> <br> Join me on this coding journey, where we can create and innovate together!
 
 
 ## 🌐 Socials:
