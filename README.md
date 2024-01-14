@@ -1,8 +1,3 @@
-# 💫 About Me:
-
-Hello there! I'm AlvaritoZ, and I'm diving into the world of programming. Despite my several years of experience in the industry, I'm always eager to learn and explore new horizons. <br> <br> Join me on this coding journey, where we can create and innovate together!
-
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/twitter/follow/z_Alvarito_z.svg?style=social)](https://twitter.com/z_Alvarito_z) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/by_alvaritoz)
 
