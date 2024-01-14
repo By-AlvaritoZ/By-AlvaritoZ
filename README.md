@@ -8,3 +8,5 @@
 
 ## 🖥️ My Programs:
 ![VS](https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=By-AlvaritoZ&show_icons=true&theme=dark&locale=en" alt="By-AlvaritoZ" /></p>
