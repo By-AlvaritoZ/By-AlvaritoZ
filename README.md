@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm AlvaritoZ</h1>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fz_Alvarito_z)](https://twitter.com/z_Alvarito_z) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/byalvaritoz)
 
 ## 💻 Tech Stack:
